@@ -1,5 +1,5 @@
 # DeepNNBoost
-2023 dOnAlD_C.Z
+2023 M.Conrad Oliver Zawadzki x Tomasz Donald Gaweł.
 MIT License /2938
 Research Abstract:
 
